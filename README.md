@@ -17,4 +17,5 @@ https://dev-clutchbagsph.pantheonsite.io/
 
 Admin Google Account:
 
-clutchbagsph@gmail.com
+* Email: clutchbagsph@gmail.com
+* Password: Ecomms*!23
