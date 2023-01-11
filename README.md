@@ -11,11 +11,3 @@
 *  **Category** : Bags
 *  **Product** : Formal bags
 
-## ECOMMERCE SITE: CLUTCH!
-https://dev-clutchbagsph.pantheonsite.io/
-
-
-Admin Google Account:
-
-* Email: clutchbagsph@gmail.com
-* Password: Ecomms*123
